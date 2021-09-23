@@ -1,2 +1,3 @@
-print('Hello World')
-print('DevOps')
+s='Hello World'
+n='DevOps'
+print(s,n)

@@ -1,3 +1,2 @@
-sample = 'Hello World'
-name = 'DevOps'
-print(sample, name)
+print('Hello World')
+print('DevOps')
